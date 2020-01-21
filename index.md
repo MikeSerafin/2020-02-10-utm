@@ -48,6 +48,7 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 {% endunless %}
 {% endif %}
 
+<i>Please note that the fee of $20 USD (approx. $28 CAD) will be refunded to participants who attend the workshop, using the same method of payment (credit card or Paypal) one week after the workshop.</i>
 {% comment %}
 EVENTBRITE
 
@@ -65,7 +66,7 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
-<i>Please note that the fee of $20 USD (approx. $28 CAD) will be refunded to participants who attend the workshop, using the same method of payment (credit card or Paypal) one week after the workshop.</i>
+
 
 <h2 id="general">General Information</h2>
 
